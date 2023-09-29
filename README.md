@@ -4,11 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+![](screenshot.jpg.png)
 
 ### Built with
 
@@ -16,15 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-I developed this project to make my HTML5 and CSS foundations stronger. Paying attention to semantics and adjusting styles in CSS.
-
-### Continued development
-
-Carry out the execution of a project made from scratch, being built little by little. It's very satisfying! Even though at times I feel stuck, this will pass. And I will add more knowledge.
-
 ## Author
 
-- Linkedin - [Vinicius José Campiotto dos Santos](https://www.linkedin.com/in/vinicius-campiotto-421233250/)
+- Linkedin - [Vinicius Campiotto](https://www.linkedin.com/in/vinicius-campiotto-421233250/)
 - Frontend Mentor - [@Campiottocodes](https://www.frontendmentor.io/profile/Campiottocodes)
